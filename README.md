@@ -6,7 +6,6 @@
 		<title>Hank Quinlan, Horrible Cop</title>
 	</head>
 	<body>
-		
 		<div class="navbar">NAVBAR</div>
 		<div class="post">
 		    <div class="post-title">{{ page.title }}</div>
@@ -14,9 +13,6 @@
 			{{ content }}
 		    </div>
 		</div>
-
-		
-		
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
