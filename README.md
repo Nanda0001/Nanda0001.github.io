@@ -1,12 +1,22 @@
 # seri.github.io
 
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Hank Quinlan, Horrible Cop</title>
 	</head>
 	<body>
+		
+		<div class="navbar">NAVBAR</div>
+		<div class="post">
+		    <div class="post-title">{{ page.title }}</div>
+		    <div class="post-body">
+			{{ content }}
+		    </div>
+		</div>
+
+		
+		
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
