@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 
-<h2>Hello World</h2>
+<h2>Hello World 한글 조치원 닭</h2>
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
